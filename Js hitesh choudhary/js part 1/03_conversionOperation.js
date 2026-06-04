@@ -1,3 +1,4 @@
+
 // conversion to number
 
 let score = 33 // cnfrm score is a number 
@@ -12,7 +13,7 @@ console.log(typeof (score)); // as a method
 let valueInNumber = Number(marks) // for sure marks is a number now.
 console.log(typeof valueInNumber); // --> number 
 
-// now conversion to boolean
+// now conversion to boolean.
 
 let percentage = "33abc"
 let valueInNumbers = Number(percentage)

@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(241, 214, 214);
+}
+.txt-top{
+    display: inline              ;
+    color: black;
+    font-size: xx-large;
+    font-weight: bolder;
+    display: flexbox;
+    margin: 0px;
+    justify-self: center;
+
+
+}

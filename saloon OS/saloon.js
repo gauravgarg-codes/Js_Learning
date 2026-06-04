@@ -5,7 +5,7 @@ rating:4.5,
 distance:"1.2 km"
 },
 {
-name:"Urban Hair Studio",
+name:"Urband hair falntum",
 rating:4.2,
 distance:"2 km"
 }
