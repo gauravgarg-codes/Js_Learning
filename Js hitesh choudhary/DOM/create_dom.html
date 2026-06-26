@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Create-DOM</title>
+</head>
+<body style="background-color: #212121; color: white;">
+       
+</body>
+<script>
+    // create a div element using script- DOM
+
+    
+   const div = document.createElement('div') // but web page pe abhi bhi nhi dik rhaa
+   console.log(div);
+   div.className = 'main'
+  // div.id = 'myID'
+   div.id = Math.round(Math.random()*10+1) // this is random ID every time 
+   div.setAttribute("tittle","generated tittle")
+   div.style.backgroundColor = "green"
+   div.style.padding = "12px"
+   //div.innerText = "chaiAurCode" --> ye values ko re-write krta hai
+   const addText = document.createTextNode("chai aur code")
+   div.appendChild(addText)
+
+
+   document.body.appendChild(div)
+
+   // which is optimized way talk later innerText or appendChild
+
+</script>
+
+</html>
