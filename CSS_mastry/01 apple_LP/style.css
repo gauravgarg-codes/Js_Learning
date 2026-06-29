@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(79, 75, 75);
+}
+
+.nav-logo{
+    height: 45px;
+    width: 45px;
+    border-radius: 50%;
+}
+.navbar-left{
+    display: flex;
+    padding: 5px;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-content: center;
+
+}
+
+.navbar-nav{
+    font: bold;
+    color: white;
+
+}
