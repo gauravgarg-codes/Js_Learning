@@ -3,9 +3,9 @@
 
 > Documenting my journey from learning the fundamentals to becoming a Production-Ready MERN Stack Developer.
 
-![GitHub last commit](https://img.shields.io/github/last-commit/gauravgarg-codes/Full-Stack)
-![GitHub repo size](https://img.shields.io/github/repo-size/gauravgarg-codes/Full-Stack)
-![GitHub stars](https://img.shields.io/github/stars/gauravgarg-codes/Full-Stack?style=social)
+![GitHub last commit](https://img.shields.io/github/last-commit/gauravgarg-codes/MERN-STACK)
+![GitHub repo size](https://img.shields.io/github/repo-size/gauravgarg-codes/MERN-STACK)
+![GitHub stars](https://img.shields.io/github/stars/gauravgarg-codes/MERN-STACK?style=social)
 
 ---
 
