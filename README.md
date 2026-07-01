@@ -23,7 +23,7 @@ Every project, practice file, and challenge here represents my progress toward b
 
 - ✅ Master HTML & CSS
 - ✅ Master Modern JavaScript
-- 🔄 Learn DOM Manipulation
+- 🔄 Learn DOM Manipulation and Async Js, Promises
 - ⏳ Learn React.js
 - ⏳ Learn Node.js
 - ⏳ Learn Express.js
@@ -31,7 +31,7 @@ Every project, practice file, and challenge here represents my progress toward b
 - ⏳ Build Full Stack Applications
 - ⏳ Participate in Hackathons
 - ⏳ Start Freelancing
-- ⏳ Become a Production-Ready MERN Developer
+- ⏳ Become a Production-Ready MERN Developer in 100 Days
 
 ---
 
@@ -40,17 +40,14 @@ Every project, practice file, and challenge here represents my progress toward b
 ```text
 Full Stack
 │
-├── HTML_Projects
 ├── CSS_Mastery
 ├── JS_Basics
-├── DOM_Projects
-├── Mini_Projects
-├── React
-├── Backend
-├── MongoDB
-│
-├── README.md
-└── .gitignore
+├── JS_Speed_course
+├── MINI_PROJECTS
+.
+.
+.
+.
 ```
 
 ---
@@ -120,7 +117,6 @@ Full Stack
 ## Beginner Projects
 
 - People Counter App
-- Customer Counter
 - Portfolio Website
 - Landing Pages
 
@@ -163,7 +159,7 @@ Full Stack
 
 Every learning session follows this process:
 
-1. Learn Concepts
+1. Learn Concepts #javascript.info #MDN docs
 2. Practice Problems
 3. Build Mini Projects
 4. Commit to GitHub
