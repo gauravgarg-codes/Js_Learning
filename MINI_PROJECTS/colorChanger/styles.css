@@ -1,0 +1,47 @@
+body {
+  margin: 0px;
+  padding: 0px;
+  text-align: center;
+  background-color: #212121;
+  color: aliceblue;
+}
+
+.heading {
+  font-size: 3rem; 
+}
+.buttons-section{
+  justify-items: center;
+}
+.button {
+  border: solid;
+  border-radius: 5px;
+  margin: 5px;
+  font-size: 1.5rem;
+  padding: 5px;
+  display: block;
+  width: 50%;
+  align-items: center;
+  cursor: pointer;
+  transition: 0.2s ease;
+}
+.button:hover{
+  box-shadow: 4px 4px 6px greenyellow;
+}
+.button:active{
+  box-shadow: 0px 0px;
+  translate: 4px 4px;
+}
+#red{
+  background-color: red;
+}
+#green{
+  background-color: green;
+}
+#blue{
+  background-color: blue;
+}
+#pink{
+  background-color: pink;
+  color: black;
+  border-color: white;
+}
