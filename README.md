@@ -1,5 +1,6 @@
 # 🚀 Full Stack Development Journey with Gaurav
 # alsi_se_asli
+- updated the path of version control
 
 > Documenting my journey from learning the fundamentals to becoming a Production-Ready MERN Stack Developer.
 
